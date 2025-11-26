@@ -11,7 +11,7 @@ textual = "^6.0"
 
 [tool.poetry.group.plot.dependencies]
 matplotlib = "^3.10"
-numpy = "^2.3"
+numpy = "^2.2"
 
 [tool.poetry.group.dev.dependencies]
 
