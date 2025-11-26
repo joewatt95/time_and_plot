@@ -9,6 +9,9 @@ python = "^3.11"
 rich = "^14.1"
 textual = "^6.0"
 
+[tool.poetry.group.plot]
+optional = true
+
 [tool.poetry.group.plot.dependencies]
 matplotlib = "^3.10"
 numpy = "^2.2"
